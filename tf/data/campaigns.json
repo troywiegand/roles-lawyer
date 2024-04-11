@@ -1,0 +1,19 @@
+[{
+    "campaign_role": "Theran",
+    "campaign_info": "theros-info",
+    "campaign_chat": "theros-chat",
+    "campaign_voice": "j-geils-bar",
+    "campaign_channel_grouping": "🏛️ Theros"
+},{
+    "campaign_role": "Infernal Vanguard",
+    "campaign_info": "infernal-info",
+    "campaign_chat": "infernal-chat",
+    "campaign_voice": "hellspeak",
+    "campaign_channel_grouping": "🔥 The Infernal Odyssey"   
+},{
+    "campaign_role": "Lunos",
+    "campaign_info": "lunos-info",
+    "campaign_chat": "lunos-chat",
+    "campaign_voice": "Quill & Hearth",
+    "campaign_channel_grouping": "🌙 Lunos"
+}]

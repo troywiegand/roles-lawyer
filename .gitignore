@@ -1,0 +1,7 @@
+.env
+.terraform*
+credentials.auto.tfvars
+terraform.tfstate*
+
+
+node_modules/
